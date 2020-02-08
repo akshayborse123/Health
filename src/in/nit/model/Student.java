@@ -2,6 +2,7 @@ package in.nit.model;
 
 public class Student {
 	private String sname;
+	private Double sfee;
 
 	public String getSname() {
 		return sname;
